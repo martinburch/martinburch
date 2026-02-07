@@ -8,3 +8,4 @@ Earlier, I wrote a [MySQL upsert function for Python 2](https://gist.github.com/
 
 * Listen to the sounds of the wilderness with the [Ambient Colorado](https://ambientcolorado.com) podcast
 * Are chart toppers YouTube hits? Try my retro-themed [music quiz](https://numberones.martinburch.com)
+* I'm the co-curator of a home computer museum, see [compmuseum.org](https://compmuseum.org)
